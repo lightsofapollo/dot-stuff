@@ -5,3 +5,5 @@ Personal "dot stuff" four computers later I realize I should have made this soon
 3. Install MVIM
 4. Install Janus
 5. Use ir black for vim
+
+TODO: Someday automate install!
